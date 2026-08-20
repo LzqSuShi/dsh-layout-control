@@ -1,0 +1,6 @@
+# dsh-layout-control bundle: insert a web client overlay row.
+# `dsh plugin --profile web add` applies this patch; the client scanner
+# reads this package's dsh.client declaration and loads lib/client.js.
+- insert:
+    - id: dsh-layout-control
+      name: dsh-layout-control
