@@ -8,6 +8,20 @@ DeepSeek Harness Web UI 的独立布局插件：可拖动的「布局」按钮�
 
 仓库带 [`dsh-plugin`](https://github.com/topics/dsh-plugin) 话题，可用 `dsh plugin add` 安装。
 
+## 预览
+
+### 布局面板
+
+![布局面板](docs/screenshots/01-panel.jpg)
+
+### 右下停靠
+
+![输入栏停靠右下](docs/screenshots/02-dock-right-bottom.jpg)
+
+### 左下停靠
+
+![输入栏停靠左下](docs/screenshots/03-dock-left-bottom.jpg)
+
 ## 功能
 
 右下角圆形按钮打开面板（可拖到屏幕边缘，贴边后会收进一半，鼠标移上去再展开）：
